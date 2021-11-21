@@ -1,0 +1,33 @@
+index,Login_ID,Customer_Name,Customer_Age,Customer_Occupation,Credit _Card,Order_ID,Order_Date,Expected_Delivery_Date,Actual_Delivery_Date,Product_ID,Product_Name,Category,Manufacturer,Review_Rating,Delivery_Tracking_ID,Delivery_Type,Delivery_Zip_Code,Transaction_Status,Order_Returned,Order_Delivered_on_Time
+1,satty,Sathyaveer,23,Accountant,4.56E+12,HM#111242,11/8/2020,11/22/2020,11/15/2020,36,Macbook,Laptop,Apple,1,T#11223499355,delivery,60616,Disputed,Yes,Yes
+2,satty,Sathyaveer,23,Accountant,4.56E+12,HM#111242,11/8/2020,11/22/2020,11/15/2020,24,Samsung smart watch - Gear 2,Watch,Samsung,1,T#11223499355,delivery,60616,Disputed,Yes,Yes
+3,ninad@gmail.com,ninad,25,Engineer,2.34E+12,HM#11124493,11/8/2020,11/22/2020,11/21/2020,38,Dell Inspiron Laptop,Laptop,Dell,4,T#11223462474,pickup,60616,Approved,No,Yes
+4,john@gmail.com,12345678,30,Pilot,5.44E+13,HM#11124629,11/8/2020,11/22/2020,11/15/2020,3,NEW one,Television,LG,3,T#11223464766,delivery,60616,Approved,Yes,Yes
+5,mounin@yahoo.com,Mounin,25,Accountant,1.23E+12,HM#11123102,11/8/2020,11/22/2020,11/21/2020,22,Huawei Smart Watch- Titanium,Watch,Huawei,1,T#11223453628,delivery,60617,Approved,Yes,Yes
+6,sachin@gmail.com,Sachin,24,Accountant,4.55E+14,HM#11125187,11/8/2020,11/22/2020,11/21/2020,24,Samsung smart watch - Gear 2,Watch,Samsung,5,T#11223421030,delivery,60617,Approved,No,No
+7,sachin@gmail.com,Sachin,24,Accountant,4.55E+14,HM#11125187,11/8/2020,11/22/2020,11/21/2020,33,iPhone XS,Phone,Apple,5,T#11223421030,delivery,60617,Approved,No,No
+8,aakash@rocketmail.com,akash,25,Pilot,6.77E+14,HM#11121283,11/8/2020,11/22/2020,11/15/2020,14,LG oled,Television,LG,5,T#11223421674,pickup,60706,Disputed,Yes,Yes
+9,Kareena,Kareena,35,Pilot,4.36E+14,HM#11125611,11/8/2020,11/22/2020,11/15/2020,46,KingWear smart watch,Watch,King Wear,3,T#1122344196,delivery,60617,Disputed,No,No
+10,smit@gmail.com,Smit,29,Engineer,4.34E+12,HM#11126232,11/8/2020,11/22/2020,11/18/2020,39,Hp Spectre Laptop,Laptop,HP,4,T#11223472348,pickup,60818,Disputed,Yes,No
+11,zil@yahoo.in,zil ,24,Engineer,4.56E+11,HM#11128782,11/8/2020,11/22/2020,11/15/2020,21,Emporio Armani Smart Watch,Watch,Emporio Armani,1,T#11223483755,delivery,60818,Disputed,Yes,Yes
+12,zil@yahoo.in,zil ,24,Engineer,4.56E+11,HM#11128782,11/8/2020,11/22/2020,11/15/2020,3,NEW one,Television,LG,1,T#11223483755,delivery,60818,Disputed,Yes,Yes
+13,zil@yahoo.in,zil ,24,Engineer,4.56E+11,HM#11128782,11/8/2020,11/22/2020,11/15/2020,35,iPhone 7,Phone,Apple,1,T#11223483755,delivery,60818,Disputed,Yes,Yes
+14,hezal@rocketmail.com,Hezal,27,Engineer,3.43E+13,HM#11124935,11/8/2020,11/22/2020,11/15/2020,22,Huawei Smart Watch- Titanium,Watch,Huawei,4,T#11223493217,pickup,60818,Approved,No,No
+15,hezal@rocketmail.com,Hezal,27,Engineer,3.43E+13,HM#11124935,11/8/2020,11/22/2020,11/15/2020,70,Samsung Phone,Phone,Samsung,4,T#11223493217,pickup,60818,Approved,No,No
+16,Gurunath45@yahoo.in,Gurunath,25,Pilot,5.45E+11,HM#11123725,11/8/2020,11/22/2020,11/22/2020,10,"Toshiba - 50"" Class - LED",Television,Toshiba,2,T#11223447574,pickup,60706,Disputed,Yes,No
+17,aakashreddy@rocketmail.com,Aakash,26,Pilot,6.67E+13,HM#11123341,11/8/2020,11/22/2020,11/15/2020,68,Macbook Pro,Laptop,Apple,1,T#11223489726,delivery,60616,Disputed,Yes,Yes
+18,dhiraj@yahoo.com,Dhiraj,25,Accountant,5.54E+12,HM#11121308,11/8/2020,11/22/2020,11/28/2020,23,Kate Spade Smart Watch Rose Gold,Watch,Kate Spade,3,T#11223430402,delivery,60616,Disputed,Yes,No
+19,Dimple@yahoo.com,Dimple,25,Accountant,3.43E+13,HM#11122589,11/8/2020,11/22/2020,11/28/2020,25,Skagen Smart Watch,Watch,Skagen,4,T#11223431089,delivery,60616,Approved,Yes,No
+20,Dimple@yahoo.com,Dimple,25,Accountant,3.43E+13,HM#11122589,11/8/2020,11/22/2020,11/28/2020,11,"Sony - 65"" Class - LED - X900F Series",Television,Sony,4,T#11223431089,delivery,60616,Approved,Yes,No
+21,shweta25@gmail.com,Shweta,26,Engineer,4.33E+14,HM#11126829,11/8/2020,11/22/2020,11/22/2020,70,Samsung Phone,Phone,Samsung,1,T#11223432492,delivery,60818,Disputed,No,No
+22,shweta25@gmail.com,Shweta,26,Engineer,4.33E+14,HM#11126829,11/8/2020,11/22/2020,11/22/2020,47,s928 smart watch,Watch,GearBest,1,T#11223432492,delivery,60818,Disputed,No,No
+23,alice,alice,30,Accountant,5.66E+12,HM#11123429,11/8/2020,11/22/2020,11/21/2020,73,LG Phone,Phone,LG,2,T#11223491701,pickup,60818,Disputed,No,Yes
+24,alice,alice,30,Accountant,5.66E+12,HM#11123429,11/8/2020,11/22/2020,11/21/2020,25,Skagen Smart Watch,Watch,Skagen,2,T#11223491701,pickup,60818,Disputed,No,Yes
+25,johnss,john,34,Engineer,4.54E+14,HM#11122166,11/8/2020,11/22/2020,11/22/2020,22,Huawei Smart Watch- Titanium,Watch,Huawei,4,T#11223444510,pickup,60616,Disputed,Yes,No
+26,johnss,john,34,Engineer,4.54E+14,HM#11122166,11/8/2020,11/22/2020,11/22/2020,23,Kate Spade Smart Watch Rose Gold,Watch,Kate Spade,4,T#11223444510,pickup,60616,Disputed,Yes,No
+27,aishwarya@yahoo.in,aishwarya,24,Accountant,4.36E+14,HM#11122336,11/8/2020,11/22/2020,11/28/2020,34,iPhone 8,Phone,Apple,5,T#11223441108,delivery,60617,Approved,Yes,No
+28,deepika@gmail.com,Deepika,45,Engineer,4.54E+13,HM#11122211,11/8/2020,11/22/2020,11/15/2020,71,Pixel Phone,Phone,Google,4,T#11223484984,delivery,60818,Approved,Yes,No
+29,yogesh@yahoo.com,yogesh,45,Pilot,5.44E+12,HM#11129476,11/8/2020,11/22/2020,11/18/2020,72,Nexus Phone,Phone,Google,5,T#11223491545,pickup,60616,Disputed,Yes,No
+30,ramesh@gmail.com,ramesh,45,Pilot,5.43E+13,HM#11121199,11/8/2020,11/22/2020,11/15/2020,39,Hp Spectre Laptop,Laptop,HP,1,T#11223418408,pickup,60818,Disputed,Yes,Yes
+31,johnny@yahoo.in,johnny,40,Engineer,4.54E+12,HM#11122153,11/8/2020,11/22/2020,11/15/2020,23,Kate Spade Smart Watch Rose Gold,Watch,Kate Spade,1,T#11223480434,pickup,60706,Disputed,Yes,Yes
+32,johnny@yahoo.in,johnny,40,Engineer,4.54E+12,HM#11122153,11/8/2020,11/22/2020,11/15/2020,74,Lenovo Phone,Phone,Lenovo,1,T#11223480434,pickup,60706,Disputed,Yes,Yes
